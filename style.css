@@ -81,7 +81,9 @@ footer p {
 }
 
 .grid {
+	width: 830px;
 	position: relative;
+	margin-right: 0;
 	display: grid;
 	grid-template-columns: 33.3% 33.3% 33.3%;
 	margin-top: 0px;
@@ -232,6 +234,7 @@ nav {
 
 
 	.grid {
+	width: 0;
 	position: relative;
 	display: grid;
 	grid-template-columns: 100%;
@@ -328,7 +331,67 @@ nav a {
 }
 
 .banner img{
-	width: 400px;
+	width: 450px;
+}
+
+.details {
+	position: relative;
+	background-color: white;
+	display: none;
+	padding-right: 0;
+
+}
+
+.details img {
+	width: 450px;
+	margin-bottom: 20px;
+}
+
+.details h1 {
+	width: 450px;
+	font-family: 'Dela Gothic One', cursive;
+	font-size: 40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.details h3 {
+	width: 450px;
+	font-family: 'Kanit', sans-serif;
+	font-weight: 500;
+	color: orange;
+}
+
+.details p {
+	width: 450px;
+}
+
+.details h5 {
+	width: 450px;
+	font-family: 'Kanit', sans-serif;
+	font-weight: 300;
+}
+
+
+
+.active .details {
+	justify-content: center;
+	opacity: 1;
+	transition: opacity 0.5s;
+	display: block;
+}
+
+
+
+.close {
+	width: 450px;
+	font-family: 'Kanit', sans-serif;
+	font-size: 1.25em;
+	text-transform: uppercase;
+	margin: 0.5em 0;
+	line-height: 1;
+	cursor: pointer;
+	text-align: right;
 }
 
 }
