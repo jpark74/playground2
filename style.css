@@ -228,8 +228,8 @@ nav {
 	}
 
 	.thumbnail {
-		width: 450px;
-		height: 450px;
+		width: 350px;
+		height: 350px;
 	}
 
 
@@ -331,7 +331,7 @@ nav a {
 }
 
 .banner img{
-	width: 450px;
+	width: 350px;
 }
 
 .details {
@@ -343,12 +343,12 @@ nav a {
 }
 
 .details img {
-	width: 450px;
+	width: 350px;
 	margin-bottom: 20px;
 }
 
 .details h1 {
-	width: 450px;
+	width: 350px;
 	font-family: 'Dela Gothic One', cursive;
 	font-size: 40px;
 	margin-top: 20px;
@@ -356,18 +356,19 @@ nav a {
 }
 
 .details h3 {
-	width: 450px;
+	width: 350px;
 	font-family: 'Kanit', sans-serif;
 	font-weight: 500;
 	color: orange;
 }
 
 .details p {
-	width: 450px;
+	width: 350px;
+	font-weight: 300;
 }
 
 .details h5 {
-	width: 450px;
+	width: 350px;
 	font-family: 'Kanit', sans-serif;
 	font-weight: 300;
 }
@@ -384,7 +385,7 @@ nav a {
 
 
 .close {
-	width: 450px;
+	width: 350px;
 	font-family: 'Kanit', sans-serif;
 	font-size: 1.25em;
 	text-transform: uppercase;
