@@ -145,6 +145,11 @@ footer p {
 	margin-bottom: 20px;
 }
 
+.details video {
+	width: 849px;
+	magin-bottom: 20px;
+}	
+
 .details h1 {
 	width: 849px;
 	font-family: 'Dela Gothic One', cursive;
