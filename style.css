@@ -150,6 +150,13 @@ footer p {
 	magin-bottom: 20px;
 }	
 
+video {
+		width: 849px;
+	magin-bottom: 20px;
+}	
+
+	
+
 .details h1 {
 	width: 849px;
 	font-family: 'Dela Gothic One', cursive;
@@ -377,6 +384,11 @@ nav a {
 	font-family: 'Kanit', sans-serif;
 	font-weight: 300;
 }
+	
+	video {
+		width: 380px;
+	magin-bottom: 20px;
+}	
 
 
 
