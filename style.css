@@ -23,23 +23,26 @@ nav a {
 	margin-left: 10px;
 	text-decoration: none;
 	color: black;
-	font-family: 'Kanit', sans-serif;
+	font-family: 'Bebas Neue', cursive;
 }
 
 nav a:hover {
-	color: orange;
+	color: #FF5349;
 }
 
 h1 {
-	font-family: 'Kanit', sans-serif;
-	font-size: 28px;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 24px;
+	margin-bottom: -10px;
+
 }
 
 p {
 	font-family: 'Kanit', sans-serif;
-	font-size: 18px;
+	font-size: 14px;
 	font-weight: 300;
-	line-height: 26px;
+	line-height: 20px;
+
 }
 
 a {
@@ -50,7 +53,7 @@ a {
 }
 
 a:hover {
-	color: orange;
+	color: #FF5349;
 }
 
 footer {
@@ -61,6 +64,16 @@ footer {
 
 footer p {
 	font-size: 12px;
+}
+
+
+.p-margin {
+	margin-bottom: -14px;
+}
+
+
+.contact-header-margin {
+	margin-bottom: 20px;
 }
 
 .banner img {
@@ -75,7 +88,7 @@ footer p {
 
 .indexcontainer {
 	display: grid;
-	grid-template-columns: 45% 10% 45%;
+	grid-template-columns: 55% 7% 38%;
 	justify-content: center;
 	align-content: center;
 }
@@ -159,7 +172,7 @@ video {
 
 .details h1 {
 	width: 849px;
-	font-family: 'Dela Gothic One', cursive;
+	font-family: 'Bebas Neue', cursive;
 	font-size: 40px;
 	margin-top: 20px;
 	margin-bottom: 20px;
@@ -168,7 +181,7 @@ video {
 .details h3 {
 	font-family: 'Kanit', sans-serif;
 	font-weight: 500;
-	color: orange;
+	color: #FF5349;
 }
 
 .details p {
@@ -388,7 +401,7 @@ nav a {
 	width: 380px;
 	font-family: 'Kanit', sans-serif;
 	font-weight: 500;
-	color: orange;
+	color: #FF5349;
 }
 
 .details p {
